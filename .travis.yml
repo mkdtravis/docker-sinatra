@@ -4,8 +4,8 @@ rvm: 2.6.3
 
 language: ruby
 
-services:
-  - docker
+#services:
+ # - docker
 
 before_install:
 - sudo docker pull carlad/sinatra
