@@ -15,4 +15,4 @@ before_install:
 
 script:
 - bundle exec rake test
-#testing on qe1
+#testing on qe1,
